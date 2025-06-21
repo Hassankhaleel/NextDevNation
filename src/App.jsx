@@ -10,11 +10,20 @@ function App() {
     <>
       <h1>
         lets build NextDevNATION
-        changs by zain
-        tsing by hassan
+
       </h1>
       <p>
-        asd
+
+        AB KAAM KRNA HA BABO BHAIAA @@
+
+      </p>
+
+      <h1>
+        lets build NextDevNATION
+        changs by zain
+      </h1>
+      <p>
+
         AB KAAM KRNA HA BABO BHAIAA @@
 
       </p>
